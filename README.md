@@ -11,7 +11,7 @@ This repository contains the SDK and sample applications that allow you to enter
 - Key phrase detection
 - Topic detection
 
-Before you can use the SDK or run the sample applications you will need to have an Azure account and sign up for the Text Analytics API. Instructions for doing so can be found in the [Getting Started guide](/Docs/getting-started.md)
+Before you can use the SDK or run the sample applications you will need to have an Azure account and sign up for the Text Analytics API. Instructions for doing so can be found in the [Getting Started guide](/Docs/getting-started.md).
 
 ## The Client Library
 The client library is a thin C\# client wrapper for Microsoft Text Analytics API. The easiest way to use this client library is to get microsoft.projectoxford.text.dotnetcore package from [nuget](http://nuget.org).
