@@ -1,7 +1,7 @@
 ﻿using Microsoft.ProjectOxford.Text.Sentiment;
 using System;
 
-namespace SentimentClientSync
+namespace SentimentClientSample
 {
     class Program
     {
