@@ -1,6 +1,12 @@
-MIT License
+![Text Analytics](Docs/Images/TextAnalytics.png)
 
-Copyright (c) 2017 Adam Grocholski
+Microsoft Cognitive Services Text Analytics SDK
+
+Copyright (c) 2016 Adam Grocholski
+
+All rights reserved.
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +25,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Data submitted may be retained by Microsoft for service improvement purposes, along with the other stipulations noted in the following documents: [Cognitive Services TOU](https://go.microsoft.com/fwlink/?LinkId=533207), [Developer Code of Conduct](http://go.microsoft.com/fwlink/?LinkId=698895)

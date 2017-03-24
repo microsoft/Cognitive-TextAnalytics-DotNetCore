@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/adgroc/Cognitive-TextAnalytics-DotNetCore/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/adgroc/Cognitive-TextAnalytics-Windows</PackageProjectUrl>
+    <Copyright>Copyright 2017</Copyright>
+    <Description>Microsoft Cognitive Services Text Analytics API Client Library for .NET Core</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/adgroc/Cognitive-TextAnalytics-Windows</RepositoryUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/adgroc/Cognitive-TextAnalytics-DotNetCore/master/Docs/Images/TextAnalytics.png</PackageIconUrl>
+    <Authors>Adam Grocholski</Authors>
+    <Company>Adam Grocholski</Company>
+    <PackageReleaseNotes>Support for .NET Core</PackageReleaseNotes>
+    <PackageTags>Microsoft Project Oxford Cognitive Services Text Language</PackageTags>
+    <PackageId>Microsoft.ProjectOxford.Text.DotNetCore</PackageId>
+    <Product>Microsoft.ProjectOxford.Text.DotNetCore</Product>
   </PropertyGroup>
 
   <ItemGroup>

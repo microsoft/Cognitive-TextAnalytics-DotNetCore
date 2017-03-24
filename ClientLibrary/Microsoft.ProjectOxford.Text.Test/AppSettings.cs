@@ -13,10 +13,6 @@ namespace Microsoft.ProjectOxford.Text.Test
 
         private AppSettings()
         {
-            //var builder = new ConfigurationBuilder()
-            // .SetBasePath(Directory.GetCurrentDirectory())
-            //.AddJsonFile("appsettings.json");
-
             var builder = new ConfigurationBuilder()
             .AddJsonFile("appsettings.json");
 
@@ -36,7 +32,15 @@ namespace Microsoft.ProjectOxford.Text.Test
 
         public string ApiKey
         {
-            get { return _configuration["apiKey"]; }
+            get
+            {
+                var apiKey = _configuration["apiKey"];
+
+                if (string.IsNullOrEmpty(apiKey))
+                    throw new Exception("API key not found appsettings.json");
+
+                return apiKey;
+            }
         }
     }
 }
