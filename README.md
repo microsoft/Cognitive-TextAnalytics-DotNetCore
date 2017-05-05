@@ -2,6 +2,11 @@
 
 # Text Analytics API: .NET Core Client Library & Sample
 
+| Branch      | Build Status  |
+| ----------- | ------------- |
+| develop     | [![Build Status](https://travis-ci.org/Microsoft/Cognitive-TextAnalytics-DotNetCore.svg?branch=develop)](https://travis-ci.org/Microsoft/Cognitive-TextAnalytics-DotNetCore) |
+| master      | [![Build Status](https://travis-ci.org/Microsoft/Cognitive-TextAnalytics-DotNetCore.svg?branch=master)](https://travis-ci.org/Microsoft/Cognitive-TextAnalytics-DotNetCore) |
+
 ## Overview
 Text Analytics API is a suite of text analytics services built with Azure Machine Learning and offers APIs for sentiment analysis, key phrase extraction and topic detection for English text, as well as language detection for 120 languages.
 
