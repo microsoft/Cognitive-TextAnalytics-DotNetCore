@@ -16,6 +16,8 @@
     <PackageTags>Microsoft Project Oxford Cognitive Services Text Language</PackageTags>
     <PackageId>Microsoft.ProjectOxford.Text.DotNetCore</PackageId>
     <Product>Microsoft.ProjectOxford.Text.DotNetCore</Product>
+    <Version>1.1.1</Version>
+    <AssemblyVersion>1.1.1.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
