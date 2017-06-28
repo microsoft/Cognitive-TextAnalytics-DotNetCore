@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Microsoft.ProjectOxford.Text.Core
+﻿namespace Microsoft.ProjectOxford.Text.Core
 {
     /// <summary>
     /// Interface for documents consumed by the Text Analytics API.
